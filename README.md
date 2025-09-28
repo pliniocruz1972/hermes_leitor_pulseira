@@ -8,6 +8,8 @@ O **Sistema de Entrega de Pulseiras** é uma aplicação web otimizada para disp
 
 Desenvolvido especificamente para o **Salão do Turismo**, o sistema oferece interface intuitiva, relatórios em tempo real e histórico completo de entregas.
 
+Desenvolvido por Plínio Cruz. Desenvolvedor Full Stack da empresa Trio Tecnologia Interativa.
+
 ## ✨ Funcionalidades
 
 ### 📱 **Interface Mobile-First**
@@ -410,3 +412,4 @@ Para problemas ou dúvidas:
 
 **Sistema de Entrega de Pulseiras v1.0**  
 *Salão do Turismo - 2025*
+
